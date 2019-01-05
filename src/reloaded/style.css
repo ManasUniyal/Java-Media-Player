@@ -1,0 +1,81 @@
+#button1{
+    -fx-background-image: url("../images/icons8-music-record-64.png");
+}
+          
+ 
+#search{
+    -fx-background-image: url("../images/icons8-search-64.png");
+    -fx-background-size: 39 31;
+}
+
+#openFile{
+    -fx-background-image: url("../images/icons8-documents-folder-64.png");
+    -fx-background-size: 45 37;
+}
+
+#slow{
+    -fx-background-image: url("../images/icons8-rewind-64.png");
+    -fx-background-size: 45 37;
+}
+
+#previous{
+    -fx-background-image: url("../images/icons8-back-64.png");
+    -fx-background-size: 45 37;
+}
+
+#play{
+    -fx-background-image: url("../images/icons8-play-64.png");
+    -fx-background-size: 45 37;
+}
+
+#pause{
+    -fx-background-image: url("../images/icons8-pause-64.png");
+    -fx-background-size: 45 37;
+}
+
+#next{
+    -fx-background-image: url("../images/icons8-forward-64.png");
+    -fx-background-size: 45 37;
+}
+#fast{
+    -fx-background-image: url("../images/icons8-fast-forward-64.png");
+    -fx-background-size: 45 37;
+}
+
+#repeat{
+    -fx-background-image: url("../images/icons8-repeat-64.png");
+    -fx-background-size: 45 37;
+}
+
+#shuffle{
+    -fx-background-image: url("../images/icons8-shuffle-64.png");
+    -fx-background-size: 45 37;
+}
+
+
+#refresh{
+    -fx-background-image: url("../images/icons8-synchronize-64.png");   
+    -fx-background-size: 39 31;
+}
+
+
+#fullScreen{
+    -fx-background-image: url("../images/icons8-add-list-64.png");
+    -fx-background-size: 47 32;
+}
+
+#listView{
+    -fx-font: 10pt "Monospace";
+}
+
+#musicList{
+    -fx-font: 10pt "Monospace";
+}
+
+ #mostPlayedList{
+    -fx-font: 10pt "Monospace";
+}
+
+#videosList{
+    -fx-font: 10pt "Monospace";
+}

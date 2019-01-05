@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Reloaded_2.0:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/reloaded/IndividualArtistController.java" line="100" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IndividualArtistController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualArtistController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1376">
+              <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="musicController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/musicController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3040">
+              <caret line="207" selection-start-line="207" selection-end-line="207" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reloaded.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/Reloaded.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-493">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="131" column="13" lean-forward="true" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndividualAlbumController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualAlbumController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndividualGenreController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualGenreController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2816">
+              <caret line="191" column="24" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideosController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/VideosController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1424">
+              <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="114" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FXMLDocumentController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/FXMLDocumentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="306" column="40" lean-forward="true" selection-start-line="306" selection-start-column="40" selection-end-line="306" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#32087#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/search.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="266" selection-start-line="18" selection-start-column="266" selection-end-line="18" selection-end-column="266" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlbumController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reloaded/AlbumController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addto</find>
+      <find>mym</find>
+      <find>homebu</find>
+      <find>homeBu</find>
+      <find>incre</find>
+      <find>recentpla</find>
+      <find>recentplays</find>
+      <find>updaterece</find>
+      <find>recent</find>
+      <find>refres</find>
+      <find>reload</find>
+      <find>updat</find>
+      <find>label</find>
+      <find>songLabel</find>
+      <find>sette</find>
+      <find>setRatin</find>
+      <find>getStatus</find>
+      <find>getstatus</find>
+      <find>volume</find>
+      <find>m</find>
+      <find>setvol</find>
+      <find>setvolume</find>
+      <find>setVolume</find>
+      <find>playMy</find>
+      <find>homePageButt</find>
+      <find>home</find>
+      <find>h</find>
+      <find>file</find>
+      <find>pathfind</find>
+      <find>show</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/reloaded/myMusic.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/album.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/genre.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/myVideos.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/homePage.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/artist.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/individualArtist.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/mostPlayed.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/recentPlays.fxml" />
+        <option value="$PROJECT_DIR$/src/SearchController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/search.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/individualAlbum.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/individualGenre.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/AddAPLaylist.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/AddAPlaylist.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/playlist.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/Reloaded.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/style.css" />
+        <option value="$PROJECT_DIR$/src/reloaded/AddAPlaylistController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/ArtistController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/AlbumController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/GenreController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/PlaylistController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/MostPlayedController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/RecentPlaysController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/musicController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/VideosController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/IndividualAlbumController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/IndividualArtistController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/IndividualGenreController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/addToPlaylist.fxml" />
+        <option value="$PROJECT_DIR$/src/reloaded/AddToPlaylistController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/FXMLDocumentController.java" />
+        <option value="$PROJECT_DIR$/src/reloaded/SearchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Reloaded_2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reloaded_2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reloaded_2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reloaded_2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reloaded_2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reloaded_2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reloaded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reloaded_2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="E:/JAVA/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Utkarsh Gupta\IdeaProjects\Reloaded_2.0\src\reloaded" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Reloaded">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Reloaded_2.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="Reloaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reloaded.Reloaded" />
+      <module name="Reloaded_2.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reloaded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Reloaded" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reloaded" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4986979" weight="0.32968536" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019531" side_tool="true" weight="0.32831737" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49804688" weight="0.32724902" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.206875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="6.510417E-4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49804688" visible="true" weight="0.32831737" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019531" side_tool="true" weight="0.32831737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4986979" weight="0.32968536" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.20703125" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/reloaded/addToPlaylist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/homePage.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/reloaded/controller.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.sql/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/mostPlayed.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="265" selection-start-line="18" selection-start-column="265" selection-end-line="18" selection-end-column="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/recentPlays.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/myVideos.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="265" selection-start-line="18" selection-start-column="265" selection-end-line="18" selection-end-column="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchController.java" />
+    <entry file="file://$PROJECT_DIR$/src/images/icons8-playlist-64.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/homePage.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="182" column="41" selection-start-line="182" selection-start-column="41" selection-end-line="182" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/icons8-music-record-64.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="486" selection-start-line="486" selection-end-line="486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="2465" selection-start-line="2465" selection-end-line="2465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/individualAlbum.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="56" column="95" lean-forward="true" selection-start-line="56" selection-start-column="95" selection-end-line="56" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar!/com/mysql/cj/jdbc/exceptions/SQLExceptionsMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/AddAPLaylist.java" />
+    <entry file="file://$PROJECT_DIR$/src/reloaded/playlist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="318" column="14" selection-start-line="318" selection-start-column="14" selection-end-line="318" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/AddAPlaylist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/myMusic.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="254" column="96" lean-forward="true" selection-start-line="254" selection-start-column="96" selection-end-line="254" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/individualGenre.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/genre.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4531">
+          <caret line="18" column="263" lean-forward="true" selection-start-line="18" selection-start-column="263" selection-end-line="18" selection-end-column="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/AddAPlaylistController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/album.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reloaded_2.0.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/individualArtist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="281" selection-start-line="18" selection-start-column="281" selection-end-line="18" selection-end-column="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/artist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="277" selection-start-line="18" selection-start-column="277" selection-end-line="18" selection-end-column="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/GenreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="291" column="5" selection-start-line="291" selection-start-column="5" selection-end-line="291" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/ArtistController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2776">
+          <caret line="288" column="5" selection-start-line="288" selection-start-column="5" selection-end-line="288" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/RecentPlaysController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="140" column="5" lean-forward="true" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/MostPlayedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="308" column="9" selection-start-line="308" selection-start-column="9" selection-end-line="308" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/addToPlaylist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="71" column="84" selection-start-line="71" selection-start-column="84" selection-end-line="71" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/AddToPlaylistController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3424">
+          <caret line="233" column="47" selection-start-line="233" selection-start-column="47" selection-end-line="233" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/PlaylistController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualArtistController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/VideosController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1424">
+          <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="114" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualGenreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2816">
+          <caret line="191" column="24" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/musicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3040">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/AlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/search.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="266" selection-start-line="18" selection-start-column="266" selection-end-line="18" selection-end-column="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="131" column="13" lean-forward="true" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/IndividualAlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/Reloaded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reloaded/FXMLDocumentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="306" column="40" lean-forward="true" selection-start-line="306" selection-start-column="40" selection-end-line="306" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#32087#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Reloaded_2.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Reloaded_2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
