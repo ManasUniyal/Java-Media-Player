@@ -14,4 +14,5 @@ Made with love @ MNNIT for Avishkar 2k18.
 # Contributors
 
 [Manas Uniyal](https://github.com/ManasUniyal)
+
 [Utkarsh Gupta](https://github.com/IamUtkarshGupta)
