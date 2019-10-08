@@ -9,3 +9,9 @@ To run it on your PC, ensure that you have a MySQL data base installed. Open the
 Enjoy the software.
 
 Made with love @ MNNIT for Avishkar 2k18.
+
+
+# Contributors
+
+[Manas Uniyal](https://github.com/ManasUniyal)
+[Utkarsh Gupta](https://github.com/IamUtkarshGupta)
